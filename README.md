@@ -1,16 +1,17 @@
-# ombre
+# Ombre
+Level 3 search implemented.
+Supports prefix search with auto search feature. 
+Does not require the user to press the search button explicitly. As the user keeps typing, the search results keep showing up based on what has been typed so far.
 
-A new Flutter application.
+## Video Demo
+https://www.youtube.com/watch?v=IVJQsbiHzbE
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| Screenshot 1        | Screenshot 2           | Screenshot 3          |
+|:--------------------------:|:-------------------------:|:-----------------------:|
+| ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152627.jpg) | ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152637.jpg) | ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152657.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screenshot 4          | Screenshot 5          | Screenshot 6          |
+|:---------------------|:----------------------:|:--------------------------:|
+| ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152706.jpg) | ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152721.jpg) | ![](https://github.com/ahluwaliatikant/ombreSearch/blob/main/images/Screenshot_20210519-152728.jpg) |
