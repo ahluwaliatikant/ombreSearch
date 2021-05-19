@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535108865822",
+    "project_id": "ombre-9d37e",
+    "storage_bucket": "ombre-9d37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535108865822:android:f9258559e3ae6774d3430f",
+        "android_client_info": {
+          "package_name": "atikant.ombre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535108865822-pl54ahafp558v6prpgopc5v15tn7aro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5DesaDQ7adqfLn2kpuKLYi8VPiAtSqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535108865822-pl54ahafp558v6prpgopc5v15tn7aro5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
